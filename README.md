@@ -7,3 +7,5 @@ Finance Game Ostrum Asset Management
 # Victory of my team !!
 
 
+
+<img width="700" alt="Capture" src="https://user-images.githubusercontent.com/55435176/196642265-bdf929f4-ebc1-4a42-b963-49a7009bd239.PNG">
