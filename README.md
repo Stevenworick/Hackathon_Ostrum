@@ -6,7 +6,7 @@
 
 #### A One-night Hackathon from Friday 14th to Saturday 15th, we work on the subject of signals and investment strategies. The theme of the day was to reproduce a research paper and especially to find an extension/innovation to this paper, papers that were problems that Ostrum Asset Management was facing.
 
-#### My team and I worked on the topic: Implied volatility directional Forecasting: a machine Learning approach.
+#### My team and I worked on the topic: \textbf{"Implied volatility directional Forecasting: a machine Learning approach"}.
 
 #### It is with great pride that I announce the victory of our team on this subject, I thank my team who did not sleep all night and worked tirelessly to deliver a superb project in so little time.
 
