@@ -1,4 +1,4 @@
-This project was produced by Ayoub Ammy-Driss, a student at ENSAE. 
+This project was produced by Ayoub Ammy-Driss, a student at ENSAE. An extension and improve of our Hackathon. Thank you Ayoub ! 
 The aim of this project was to reproduce and try to improve the results of the paper 'Implied volatility directional forecasting a machine learning approach'. This paper is available in this folder.
 
 The ml4pmt folder contains the .py files used during the course.
